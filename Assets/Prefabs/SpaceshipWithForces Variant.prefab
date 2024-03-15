@@ -110,6 +110,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32e420746f9b430590ffa9c10291851c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  onlyActIfAlive: 1
+  canActWhenDead: 0
   maxThrustAcceleration: 10
   maxAngularAcceleration: 360
